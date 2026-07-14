@@ -135,12 +135,4 @@ Kaggle Blood Cell Image Dataset
 
 👨‍💻 Author
 
-Your Name
-
-📎 GitHub
-
-(Add repo link)
-
-📄 License
-
-MIT License
+G.Jayanth kumar
